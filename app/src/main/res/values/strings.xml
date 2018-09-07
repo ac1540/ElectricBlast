@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Convert!</string>
+    <string name="filler1">First vehicle</string>
+    <string name="filler2">Second vehicle</string>
+    <string name="edittext_hint"><font size="13">Enter Distance (miles)</font></string>
+
+    <string-array name="spinnerItems">
+        <item>Walking</item>
+        <item>Boosted Mini S Board</item>
+        <item>Evolve Skateboard</item>
+        <item>OneWheel</item>
+        <item>MotoTec SkateBoard</item>
+        <item>Segway Ninebot One S1</item>
+        <item>Segway i2 SE</item>
+        <item>Razor Scooter</item>
+        <item>GeoBlade 500</item>
+        <item>Hovertrax Hoverboard</item>
+    </string-array>
+
+</resources>
